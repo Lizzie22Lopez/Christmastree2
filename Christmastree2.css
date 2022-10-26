@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(8, 61, 30);
+}
+
+img {
+  float: center;
+  position: top;
+  size: 10px;
+}
+
+h1 {
+  color:rgb(241, 238, 9)
+
+}
+
+.btn_start {
+  background-color: #02bc15;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 24px;
+  color: white;
+  position: center;
+}
+
+button.btn_start:focus {
+  background-color: #ff3030;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 24px;
+  color: white;
+}
+
+.btn_stop {
+  background-color: #02bc15;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 24px;
+  color: white;
+  position: center;
+}
+
+button.btn_stop:focus {
+  background-color: #ff3030;
+  border: none;
+  border-radius: 0.5rem;
+  font-size: 24px;
+  color: white;
+}
